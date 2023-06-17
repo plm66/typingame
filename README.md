@@ -1,3 +1,3 @@
 # une experience avec cursor. 
 cela fonctionne mais on est au first commit...
-Merci ChatGPT. Sans qui j'aurais du me farcir je ne sais combien de pages de pythonneries. Le plaisir est là avec cet expert qui, des fois, ne comprend rien et qui comme un fou, repete les mêmes reponses en esperant un resultat different.
+Merci ChatGPT. 
