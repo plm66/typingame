@@ -17,7 +17,7 @@ Mon niveau python s'arrete vers la cinquantieme page de n'importe quel ouvrage q
 Et je peux juste comprendre ce que ChatGPT me dicte et valider. Un peu comme conduire une voiture sans vraiment connaître la mecanique au dela, 
 du fonctionnement d'un volant, d'une pedale d'embrage, et la nécessité de mettre de l'essence.
 
-### prochaine etape
+### 'roadmap'
 
 - Publier l'application avec streamlit ou flask, ou autre.
 - Elargir le perimetre du 'jeu' en choisissant les lettres, les mots. La langue, français par exemple.
@@ -26,4 +26,13 @@ du fonctionnement d'un volant, d'une pedale d'embrage, et la nécessité de mett
 - permettre des mesures temporelles pour considerer la rapidité
 - determiner des niveaux et integrer des mesures du nombre de mots par minutes
 - etablir des statistiques pour cibler les carences. 
+- pouvoir se concentrer sur une lettre et les mots qui contiennent exclusivement cette lettre. 
+- idem pour un groupe de lettres
+- travailler sur des repetitions de chaines de caracteres pour affiner la dexterite de certaines sequences.
+- Pouvoir adapter des routines selon la personalite de chacun.
+- 
+
+
 etc...
+
+
